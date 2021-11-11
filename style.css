@@ -1,0 +1,11 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.background-image{
+    background: url('./images/slider-01.jpg') no-repeat center center fixed #000;
+    background-size: cover;
+    height: 100vh;
+    
+}
